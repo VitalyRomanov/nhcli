@@ -1,4 +1,4 @@
-![](https://github.com/VitalyRomanov/nhkv/actions/workflows/run-tests.yaml/badge.svg)
+![](https://github.com/VitalyRomanov/nhcli/actions/workflows/run-tests.yaml/badge.svg)
 
 # NHCLI
 
