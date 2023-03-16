@@ -137,3 +137,8 @@ Reset config
 ```python
 args.reset_config()
 ```
+
+## TODO
+[ ] Implement groups as subconfigs. This way can save parts of configs separately, for example just saving config for a model
+[ ] Create subconfig slices to pass several groups. Can create configs that share some groups.
+[ ] Work with config object instead of dictionaries. Right now the transition from config to dict is irreversible.
